@@ -1,0 +1,13 @@
+{
+    "name": "snore",
+    "version": "1.0.0",
+    "description": "Node.js on Sweta",
+    "main": "server.js",
+    "scripts": {
+        "start": "nodejs server.js"
+    },
+    "dependencies": {
+        "express": "^4.13.3"
+    }
+}
+
